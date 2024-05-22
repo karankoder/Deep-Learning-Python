@@ -1,0 +1,14 @@
+{
+    "audioCues.lineHasError": "off",
+    "editor.semanticTokenColorCustomizations": {},
+    "workbench.colorCustomizations": {
+        
+
+    },
+    "editor.language.colorizedBracketPairs": [
+        
+    ],
+    "files.associations": {
+        "string.h": "c"
+    }
+}

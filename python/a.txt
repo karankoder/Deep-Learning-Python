@@ -1,0 +1,1 @@
+Hello World i am writing some new contein in this filenow i have appended some item in the file, write mode delete all the previous content of the file and write new content.

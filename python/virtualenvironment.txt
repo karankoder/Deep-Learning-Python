@@ -1,0 +1,11 @@
+First of all make a new folder
+
+then type "python3 -m vevn myenv" in cmd  ,  here myenv is the name of virtual environment
+then type " myenv\Scripts\activate "
+
+write "deactivate" to deactivate it
+
+
+pip freeze to see all installed modules
+pip freeze >a.txt
+pip install -r a.txt
